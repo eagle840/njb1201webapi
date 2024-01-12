@@ -5,7 +5,9 @@ C:\Users\eagle\source\temp\njb1201webapi\bin\Debug\net8.0\njb1201webapi.deps.jso
 C:\Users\eagle\source\temp\njb1201webapi\bin\Debug\net8.0\njb1201webapi.runtimeconfig.json
 C:\Users\eagle\source\temp\njb1201webapi\bin\Debug\net8.0\njb1201webapi.dll
 C:\Users\eagle\source\temp\njb1201webapi\bin\Debug\net8.0\njb1201webapi.pdb
-C:\Users\eagle\source\temp\njb1201webapi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\eagle\source\temp\njb1201webapi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\eagle\source\temp\njb1201webapi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\eagle\source\temp\njb1201webapi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
 C:\Users\eagle\source\temp\njb1201webapi\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\Users\eagle\source\temp\njb1201webapi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\eagle\source\temp\njb1201webapi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
