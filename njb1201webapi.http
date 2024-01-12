@@ -1,0 +1,6 @@
+@njb1201webapi_HostAddress = http://localhost:5217
+
+GET {{njb1201webapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
